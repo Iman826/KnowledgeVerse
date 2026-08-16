@@ -1,0 +1,11 @@
+venv/
+.env
+__pycache__/
+*.pyc
+.DS_Store
+knowledgeverse-api/venv/
+knowledgeverse-api/__pycache__/
+knowledgeverse-web/node_modules/
+knowledgeverse-web/.next/
+knowledgeverse-web/build/
+knowledgeverse-web/dist/
